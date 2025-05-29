@@ -82,4 +82,4 @@ io.on("connection", (socket) => {
   });
 });
 
-export {app, io};
+export {httpServer};
